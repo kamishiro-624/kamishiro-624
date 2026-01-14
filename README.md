@@ -4,7 +4,7 @@
 <h2> ABOUT ME </h2>
 <ul>
   <li><p>I'm kamishiro, PJSK players know where this is from... </p></li>
-  <li><p>I know basic C, Java, and some random obsolete languages. In the future, after I do Java Swing, I will learn JS, TS, and PY.</p></li>
+  <li><p>I know basic C, Java, and some random obsolete languages. I'm going to learn PY, JS/TS, CSS, HTML, and maybe C++ idk.</p></li>
   <!-- As you can probably tell by looking at this code, I suck at HTML as of 12/10/2024 at 7:44:13 PM -->
   
   [![My Skills](https://skillicons.dev/icons?i=c,java)](https://skillicons.dev)
