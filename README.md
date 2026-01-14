@@ -17,7 +17,7 @@
 <h2> CURRENT PROJECTS </h2>
 
 ```
-Nothing for now...
+Prodigy-like RPG to help quiz bowl players study for competitions.
 ```
 
 ---
