@@ -7,7 +7,7 @@
   <li><p>I know basic C, Java, some HTML and CSS, and some random obsolete languages. Planning to learn JS/TS and maybe C++ or Rust idk.</p></li>
   <!-- As you can probably tell by looking at this code, I suck at HTML as of 12/10/2024 at 7:44:13 PM -->
   
-  [![My Skills](https://skillicons.dev/icons?i=c,java)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=c,java,html,css)](https://skillicons.dev)
 
   <li><p>I sometimes use VSCode at home, but I do most of my coding in school. Therefore, I use unblocked IDEs like codeHS.</p></li>
 
