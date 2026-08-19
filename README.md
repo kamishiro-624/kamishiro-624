@@ -17,7 +17,7 @@
 <h2> CURRENT PROJECT(S) </h2>
 
 ```
-Updating and maintaining BDT-cord
+CT Module, Visual NBT Editor for 1.8.9
 ```
 
 ---
