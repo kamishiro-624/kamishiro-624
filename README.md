@@ -3,13 +3,13 @@
 
 <h2> ABOUT ME </h2>
 <ul>
-  <li><p>I'm kamishiro, PJSK players know where this is from... </p></li>
-  <li><p>I know basic C, Java, some HTML and CSS, and some random obsolete languages. Planning to learn JS/TS and maybe C++ or Rust idk.</p></li>
+  <li><p>I'm kamishiro. :o </p></li>
+  <li><p>I know basic C, Java, HTML (kinda), CSS (also kinda), JS, luau and some random obsolete languages. Planning to learn TS and maybe C++ or Rust idk.</p></li>
   <!-- As you can probably tell by looking at this code, I suck at HTML as of 12/10/2024 at 7:44:13 PM -->
   
-  [![My Skills](https://skillicons.dev/icons?i=c,java,html,css)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=c,java,html,css,js)](https://skillicons.dev)
 
-  <li><p>I sometimes use VSCode at home, but I do most of my coding in school. Therefore, I use unblocked IDEs like codeHS.</p></li>
+  <li><p>I use VSCode on my local machine and VSCode Browser at school because it's blocked.</p></li>
 
   [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 </ul>
@@ -17,7 +17,7 @@
 <h2> CURRENT PROJECT(S) </h2>
 
 ```
-CT Module, Visual NBT Editor for 1.8.9
+HousingQOL, Visual NBT Editor for 1.8.9
 ```
 
 ---
@@ -25,7 +25,7 @@ CT Module, Visual NBT Editor for 1.8.9
 <h2> CONTACT INFO </h2>
 <ul>
   <li><p>Email (I rarely check): <a href="mailto:xkamishiro624@gmail.com">xkamishiro624@gmail.com</a></p></li>
-  <li><p>Discord: duskerror</p></li>
+  <li><p>Discord: duskerror (currently banned)</p></li>
   <img src="https://skillicons.dev/icons?i=gmail,discord"/>
 </ul>
 
