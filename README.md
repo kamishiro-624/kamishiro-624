@@ -46,4 +46,4 @@ HousingQOL, Visual NBT Editor for 1.8.9
 
 ![kamishiro-624](https://count.getloli.com/@kamishiro-624?theme=love-and-deepspace)
 
-Profile design inspired by @octaviustheking, check out his profile README.
+Profile design inspired by @immaturegoat, check out his profile README.
