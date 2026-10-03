@@ -34,7 +34,7 @@ HousingQOL, Visual NBT Editor for 1.8.9
 <h2> Studio BDT 🐦‍⬛ </h2>
 <p>I'm a member of Studio BDT, along with the people below.</p>
 
- - <a href="https://github.com/octaviustheking">octaviustheking</a>
+ - <a href="https://github.com/immaturegoat">augusta</a>
  - <a href="https://github.com/SamuelHZhuang">SamZua</a>
  - <a href="https://github.com/NeoRazer504">NeoRazer</a>
  - <a href="https://github.com/VR00M-Vroom">VR00M-Vroom</a>
