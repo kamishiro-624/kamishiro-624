@@ -17,7 +17,7 @@
 <h2> CURRENT PROJECT(S) </h2>
 
 ```
-HousingQOL, Visual NBT Editor for 1.8.9
+silly-pitch-game, recall, HousingQOL (delayed)
 ```
 
 ---
