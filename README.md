@@ -45,6 +45,8 @@ silly-pitch-game, recall, HousingQOL (delayed)
 <h2>Profile Hits</h2>
 
 <!-- ![kamishiro-624](https://count.getloli.com/@kamishiro-624?theme=love-and-deepspace) -->
-![kamishiro-624](https://moe-counter-vercel-pink.vercel.app/get/@kamishiro624?theme=kamishiro)
+<!-- ![kamishiro-624](https://moe-counter-vercel-pink.vercel.app/get/@kamishiro624?theme=kamishiro) -->
+![kamishiro-624](https://moe-counter-vercel-pink.vercel.app/get/@kamishiro624?theme=kamishiro-2)
+
 
 Profile design inspired by @immaturegoat, check out his profile README.
