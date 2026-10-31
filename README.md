@@ -4,12 +4,12 @@
 <h2> ABOUT ME </h2>
 <ul>
   <li><p>I'm kamishiro. :o </p></li>
-  <li><p>I know basic C, Java, HTML (kinda), CSS (also kinda), JS, luau and some random obsolete languages. Planning to learn TS and maybe C++ or Rust idk.</p></li>
+  <li><p>I know basic C, Java, HTML (kinda), CSS (also kinda), JS, TS (kinda), luau and some random obsolete languages. Planning to learn some js frameworks, C++ or Rust idk. Maybe even mc modding w java</p></li>
   <!-- As you can probably tell by looking at this code, I suck at HTML as of 12/10/2024 at 7:44:13 PM -->
   
-  [![My Skills](https://skillicons.dev/icons?i=c,java,html,css,js)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=c,java,html,css,js,ts)](https://skillicons.dev)
 
-  <li><p>I use VSCode on my local machine and VSCode Browser at school because it's blocked.</p></li>
+  <li><p>I use VScode and literally nothing else.</p></li>
 
   [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 </ul>
@@ -17,7 +17,7 @@
 <h2> CURRENT PROJECT(S) </h2>
 
 ```
-silly-pitch-game, recall, HousingQOL (delayed)
+wanikani-joshu, silly-pitch-game, recall, HousingQOL
 ```
 
 ---
@@ -47,6 +47,6 @@ silly-pitch-game, recall, HousingQOL (delayed)
 <!-- ![kamishiro-624](https://count.getloli.com/@kamishiro-624?theme=love-and-deepspace) -->
 <!-- ![kamishiro-624](https://moe-counter-vercel-pink.vercel.app/get/@kamishiro624?theme=kamishiro) -->
 <!-- ![kamishiro-624](https://moe-counter-vercel-pink.vercel.app/get/@kamishiro624?theme=kamishiro-2) -->
-<img src="https://moe-counter-vercel-pink.vercel.app/get/@kamishiro624?theme=kamishiro-2" alt="kamishiro-624" />
 
-Profile design inspired by @immaturegoat, check out his profile README.
+<!-- rewrote basically the whole backend to get this to work -->
+<img src="https://moe-counter-vercel-pink.vercel.app/get/@kamishiro624?theme=kamishiro-2" alt="kamishiro-624" />
