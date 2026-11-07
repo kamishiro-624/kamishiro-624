@@ -17,7 +17,7 @@
 <h2> CURRENT PROJECT(S) </h2>
 
 ```
-wanikani-joshu, silly-pitch-game, recall, HousingQOL
+kanjilite, silly-pitch-game, recall, HousingQOL
 ```
 
 ---
